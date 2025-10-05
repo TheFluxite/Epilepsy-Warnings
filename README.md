@@ -1,6 +1,7 @@
 # Epilepsy Warnings!
 
 Are you epileptic? Do you stream Levels on Twitch or Youtube and are scared you might cause on of your Viewers to have a seizure? Then you found the right Mod!
+
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/B0B01IR9SS)
 
 # How it works
